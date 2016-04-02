@@ -1,0 +1,18 @@
+{
+   "name": "city-points-us",
+   "version": "1.0.0",
+   "description": "GeoJSON FeatureCollection of centroid points of cities in the United States.",
+   "main": "index.json",
+   "author": "csbrandt",
+   "license": "PDDL-1.0",
+   "keywords": [
+      "city",
+      "us",
+      "GeoJSON",
+      "FeatureCollection",
+      "points"
+   ],
+   "devDependencies": {
+    "turf": "^2.0.2"
+   }
+}
